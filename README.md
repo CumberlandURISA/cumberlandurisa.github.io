@@ -1,2 +1,3 @@
-# site
-Cumberland Chapter of URISA Website
+# Cumberland Chapter of URISA Website
+
+view it live: http://cumberlandurisa.github.io
